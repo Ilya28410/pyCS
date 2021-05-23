@@ -5,8 +5,8 @@ setup(
   version = '0.1.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Helps solve CS problems with python',   # Give a short description about your library
-  author = 'YOUR NAME',                   # Type in your name
-  author_email = 'your.email@domain.com',      # Type in your E-Mail
+  author = 'Ilya Hajiaghayi',                   # Type in your name
+  author_email = 'ihajiaghayi@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Ilya28410/pyCS',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Ilya28410/pyCS/archive/refs/tags/v_011.zip',    # I explain this later on
   keywords = ['CODE','COMPUTER', 'CS'],   # Keywords that define your package best
